@@ -31,6 +31,6 @@ Henri Faasdreef 312, 2492 JP The Hague
 
 The Netherlands
 
-Find on [google maps link](https://goo.gl/maps/LCE6FinFc3J2)
+Find on [google maps](https://goo.gl/maps/LCE6FinFc3J2)
 
 
