@@ -8,6 +8,10 @@ At this moment, we are at the stage of collecting ideas about concrete needs in 
 
 Similar to the idea of the [awesome official statistics software](http://www.awesomeofficialstatistics.org) list, this should complement an abstract top-down approach such as the [common statistical production architecture](https://statswiki.unece.org/display/CSPA/CSPA+v1.5) with fast bottom-up solutions.
 
+## Presentation
+
+The results of unconfUROS will be presented during the ensuing uRos2018 conference.
+
 ## Ideas
  - Machine learning techniques for imputation (boosting, deep learning, ....)
  - Sampling package that covers the need of NSIs
