@@ -14,7 +14,7 @@ The results of unconfUROS will be presented during the ensuing uRos2018 conferen
 
 ## Ideas
 
- - Machine learning techniques for imputation (boosting, deep learning, ....)
+ - [Machine learning techniques for imputation (boosting, deep learning, ....)](doc/MLimputation.md)
  - Sampling package that covers the need of NSIs
  - [A shiny app for data validation and rule management](doc/data_validation.md)
 
