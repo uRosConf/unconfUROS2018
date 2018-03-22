@@ -1,5 +1,5 @@
 # unconfUROS
-The annual conference on the use of R in official statistics will take place on the premises of Statistics Netherlands September 12-14. We are excited to announce an unconference use of R in official statistics on the two days just before the uRos conference.
+The annual [conference on the use of R in official statistics](https://www.aanmelder.nl/uros2018) will take place on the premises of Statistics Netherlands September 12-14. We are excited to announce an unconference use of R in official statistics on the two days just before the uRos conference.
 
 ## Motivation
 The idea behind the event (similar to http://unconf17.ropensci.org/ for R in general) to bring together useRs from the area of official statistics to work for two days on concrete projects where enhancements would benefit many institutes, organisation,... .
