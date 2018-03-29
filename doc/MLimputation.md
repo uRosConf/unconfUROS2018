@@ -13,9 +13,6 @@ There a number of different R packages for imputation, e.g. [VIM](https://CRAN.R
 - [Overview of caret](https://topepo.github.io/caret/) 
 - [Tensorflow for R](https://tensorflow.rstudio.com/tfestimators/)
 - [RVowpalWabbit](https://CRAN.R-project.org/package=RVowpalWabbit)
-Data validation in the ESS:
-
-
 
 
 ## Would you like to participate?
