@@ -19,6 +19,8 @@ The results of unconfUROS will be presented during the ensuing uRos2018 conferen
  - Sampling package that covers the need of NSIs
  - A shiny app for statistical disclosure control of tabular data (using [sdcTable](https://CRAN.R-project.org/package=missForest))
  - *Tell us your idea!*
+     - By sending a Pull Request to this repository
+     - Or by sending an e-mail to `uRos2018 at CBS dot nl`
 
 ## unconfUROS Programme
 
@@ -34,5 +36,7 @@ Henri Faasdreef 312, 2492 JP The Hague
 The Netherlands
 
 Find on [google maps](https://goo.gl/maps/LCE6FinFc3J2)
+
+email: `uRos208 at CBS dot nl`
 
 
