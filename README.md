@@ -17,7 +17,7 @@ The results of unconfUROS will be presented during the ensuing uRos2018 conferen
  - [Machine learning techniques for imputation (boosting, deep learning, ....)](doc/MLimputation.md)
  - [A shiny app for data validation and rule management](doc/data_validation.md)
  - Sampling package that covers the need of NSIs
- - A shiny app for statistical disclosure control of tabular data (using [sdcTable](https://CRAN.R-project.org/package=missForest))
+ - A shiny app for statistical disclosure control of tabular data (using [sdcTable](https://CRAN.R-project.org/package=sdcTable))
  - [A categorical variable that satisfies needs of NSI's](doc/categorical.md)
  - *Tell us your idea!*
      - By sending a Pull Request to this repository
