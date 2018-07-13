@@ -30,4 +30,4 @@ Another additions to the shiny application are:
 
 More information on how to implement a price kaleidoscope can be found on Paul Murrell's [website](https://www.stat.auckland.ac.nz/~paul/Reports/pricekaleidoscope/pricekaleidoscope.html).
 
-![alt text](images/destatis.png)
+![alt text](https://github.com/uRos2018/unconfUROS/blob/master/images/destatis.png)
