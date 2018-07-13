@@ -19,6 +19,7 @@ The results of unconfUROS will be presented during the ensuing uRos2018 conferen
  - Sampling package that covers the need of NSIs
  - A shiny app for statistical disclosure control of tabular data (using [sdcTable](https://CRAN.R-project.org/package=sdcTable))
  - [A categorical variable that satisfies needs of NSI's](doc/categorical.md)
+ - [A shiny app that visualizes an interactive price kaleidoscope](doc/price_kaleidoscope.md)
  - *Tell us your idea!*
      - By sending a Pull Request to this repository
      - Or by sending an e-mail to `uRos2018 at CBS dot nl`
