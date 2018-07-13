@@ -28,6 +28,6 @@ Another additions to the shiny application are:
 
 -   to have a button that scrapes the latest data on the price weights of a specific country and that populates the price kaleidoscope with the most updated data.
 
-More information on how to implement a price kaleidoscope can be found on Paul Murrell's [website](https://www.stat.auckland.ac.nz/~paul/Reports/pricekaleidoscope/pricekaleidoscope.html).
+More information on how to implement a price kaleidoscope can be found at Paul Murrell's [website](https://www.stat.auckland.ac.nz/~paul/Reports/pricekaleidoscope/pricekaleidoscope.html).
 
 ![alt text](https://github.com/uRos2018/unconfUROS/blob/master/images/destatis.png)
