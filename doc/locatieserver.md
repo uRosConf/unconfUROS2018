@@ -7,7 +7,7 @@ Soon Locatieserver will also support reverse geocoding. [Reverse geocoding is al
 Major advantage of Locatieserver compared to other geocoding services like Google and OpenStreetMap, is that it will also return the *official* adresses and names. Moreover it will return unique identifiers to link the search results to other sources of information within government. Also the data is updated frequently. For instance, adresses are updated daily.    
 Although you have to register to acquire an API-key, using Locatieserver is free of charge. I don't think there is a maximum number of requests per day, like with the Google API. There is a fair use policy.    
 
-So I think you can see why I am enthousiastic about Locatieserver ;-) However usage outside of the GIS community seems to be limited. So I would like to make a wrapper making it easier to use Locatieserver in R.     
+So I think you can see why I am enthousiastic about Locatieserver ;-) However usage outside of the GIS community seems to be limited. So I would like to create a wrapper making it easier to use Locatieserver in R.     
 
 ## Do you want to know more?
 Alas all documentation is in Dutch.
