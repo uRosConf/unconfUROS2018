@@ -4,7 +4,6 @@ The annual [conference on the use of R in official statistics](https://www.aanme
 ## Motivation
 The idea behind the event (similar to http://unconf17.ropensci.org/ for R in general) to bring together useRs from the area of official statistics to work for two days on concrete projects where enhancements would benefit many institutes, organisation,... .
 
-At this moment, we are at the stage of collecting ideas about concrete needs in the area and then try to model them into projects. Projects can relate to open data, data vizualization, data publication and of course statistical data production (such as survey methodology, editing, imputation, disclosure control, ...).
 
 Similar to the idea of the [awesome official statistics software](http://www.awesomeofficialstatistics.org) list, this should complement an abstract top-down approach such as the [common statistical production architecture](https://statswiki.unece.org/display/CSPA/CSPA+v1.5) with fast bottom-up solutions.
 
@@ -21,9 +20,11 @@ The results of unconfUROS will be presented during the ensuing uRos2018 conferen
  - [A categorical variable that satisfies needs of NSI's](doc/categorical.md)
  - [A shiny app that visualizes an interactive price kaleidoscope](doc/price_kaleidoscope.md)
  - A wrapper for the Dutch (reverse) geocoding service [Locatieserver hosted by PDOK](doc/locatieserver.md)
- - *Tell us your idea!*
-     - By sending a Pull Request to this repository
-     - Or by sending an e-mail to `uRos2018 at CBS dot nl`
+
+
+## We are fully booked!
+
+As of 13 August 2018, the unconf hackathon is at its maximum capacity, so no new applications are accepted.
 
 ## unconfUROS Programme
 
