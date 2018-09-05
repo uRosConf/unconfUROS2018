@@ -15,7 +15,7 @@ due to security measures. Lunch, coffee, fruit, and pizza will be provided.
 
 - 08:30 - 09:00: Arrival at Statistics Netherlands The Hague.
 - 09:00: Work starts.
-- 12:00: Physical exercises 
+- 12:00: Physical exercises.
 - 12:15: Lunch.
 - 15:30: End of day.
 
