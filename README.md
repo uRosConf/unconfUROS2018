@@ -15,12 +15,15 @@ The results of unconfUROS will be presented during the ensuing uRos2018 conferen
 
  - [Machine learning techniques for imputation (boosting, deep learning, ....)](doc/MLimputation.md)
  - [A shiny app for data validation and rule management](doc/data_validation.md)
+   - [unconfUROS result](https://github.com/uRos2018/validaty)
  - Sampling package that covers the need of NSIs
  - A shiny app for statistical disclosure control of tabular data (using [sdcTable](https://CRAN.R-project.org/package=sdcTable))
  - [A categorical variable that satisfies needs of NSI's](doc/categorical.md)
+   - [unconfUROS result](https://github.com/uRos2018/categorical)
  - [A shiny app that visualizes an interactive price kaleidoscope](doc/price_kaleidoscope.md)
+   - [unconfUROS result](https://github.com/uRos2018/voronoiTreemap)
  - A wrapper for the Dutch (reverse) geocoding service [Locatieserver hosted by PDOK](doc/locatieserver.md)
-
+   - [unconfUROS result](https://github.com/uRos2018/nlgeocoder)
 
 ## We are fully booked!
 
